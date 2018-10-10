@@ -14,7 +14,7 @@ b. Hub-Based TP-Link to Smart Things Integraion: The Hub-based version that requ
     Does not require a token captured from the TP-Link cloud.
     Manual device installation and setting static IP addresses.
 
-$Version 3 Update - 10/10/2018
+# Version 3 Update - 10/10/2018
 
 The Files have been updated to Version 3 for device handlers only.. Change from previous version is support for the NEW SmartThings phone app. Some nuances: 
 
