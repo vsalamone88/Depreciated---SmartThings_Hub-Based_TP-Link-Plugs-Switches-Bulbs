@@ -31,19 +31,14 @@ c. The following functions are not supported on the new SmartThings App
     4. Color Temperature above 6500 or below 2700 on the Color Bulbs.
 
 
-#Cloud-Based Pre-requisites:
+# Update instructions: 
 
-a. A valid TP-Link Kasa account (must have login name and password.
-
-b. TP-Link devices installed and in 'Remote Control' mode (done in Kasa App)
-
-Caveate: The author is not associated with the company TP-Link except as an owner/consumer of their products. All date used to create thes applets was garnered from public-domain data.
-Upgrade (Attempt several items)
-
-Update instructions: 
     A. Replace the device handlers with the new ones from the link below. 
+    
     B. In the CLASSIC App, exercise each device (run a refresh). 
+    
     C. Go to the NEW App and see if you can control the devices. 
+    
     D. If not, Remove the devices using the IDE. Then re-install using either the New or Classic App. Note: To delete individual devices, you will have to use the My Devices page on the IDE or the CLASSIC app. The new app can not delete.
 
 # Hub-Based Pre-requisites:
