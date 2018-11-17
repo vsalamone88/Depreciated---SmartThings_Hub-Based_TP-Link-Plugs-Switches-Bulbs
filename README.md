@@ -1,3 +1,5 @@
+# Depreciated.  For new installations use DaveGut/TP-Link-SmartThings
+
 # Hub-Based TP-Link Bulb, Plug, and Switch SmartThing Integration
 
 Two versions of TP-Link to Smart Things Integraion now exist:
